@@ -1,2 +1,2 @@
 # Gemma-Agents
-A collection of agents that perform different tasks.
+A collection of functionGemma agents that perform different tasks.
